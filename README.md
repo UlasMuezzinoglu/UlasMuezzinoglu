@@ -53,5 +53,5 @@
 
 ### 🎧 Now Playing
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/elik.dark91tr)
+ [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/q1dfkncnpt83wuowh240q37np)
 
