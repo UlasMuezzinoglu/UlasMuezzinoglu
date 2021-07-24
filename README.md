@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ulaş</h1>
+<h1 align="center">Hi 👋 I'm Ulaş</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 - 🔭 I’m currently working on Freelancer
 
