@@ -15,6 +15,7 @@
 ![JS](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=BD002E)&nbsp;
+![Vue3](https://img.shields.io/badge/Vue3-05122A?style=for-the-badge&logo=vue.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=for-the-badge&logo=intellij-idea&logoColor=CF3B72)&nbsp;
