@@ -54,4 +54,4 @@
 <a href="mailto:martulas5252@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 <hr class="dotted">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UlasMuezzinoglu&label=Profile%20Views&color=237b5e&style=flat-square" alt="Ulaş Müezzinoğlu" /> </p>
