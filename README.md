@@ -35,6 +35,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UlasMuezzinoglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="UlasMuezzinoglu"/>
 </a>
 </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UlasMuezzinoglu&theme=onestar&title=Stars,Followers,Commit,Repositories" alt="Ulaş Müezzinoğlu" /></a> </p>
 
 <hr class="dotted">
 
