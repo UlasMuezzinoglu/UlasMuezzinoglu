@@ -24,6 +24,7 @@
 ![MsSql](https://img.shields.io/badge/Ms%20Sql-05122A?style=for-the-badge&logo=microsoft-sql-server)&nbsp;
 ![MySql](https://img.shields.io/badge/Mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![PostgreSQl](https://img.shields.io/badge/Postgre%20Sql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
 
 
 <hr class="dotted">
