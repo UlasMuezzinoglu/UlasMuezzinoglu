@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ulaş</h1>
 <h3 align="center">Full Stack Developer</h3>
-- 🔭 I’m currently working Codexist
+- 🔭 I’m currently working at Codexist
 
 <hr class="dotted">
 
