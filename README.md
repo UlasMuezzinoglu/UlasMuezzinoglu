@@ -29,16 +29,14 @@
 
 <hr class="dotted">
 
-### 📊 GitHub Analytics  
-<p align="center">
-<a href="https://github.com/UlasMuezzinoglu">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=UlasMuezzinoglu&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="UlasMuezzinoglu"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UlasMuezzinoglu&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="UlasMuezzinoglu"/>
-</a>
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UlasMuezzinoglu&theme=onestar&title=Stars,Followers,Commit,Repositories" alt="Ulaş Müezzinoğlu" /></a> </p>
+### 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=UlasMuezzinoglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UlasMuezzinoglu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UlasMuezzinoglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr class="dotted">
+
+![](https://github-profile-trophy.vercel.app/?username=UlasMuezzinoglu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🤝🏻 Social
 
@@ -56,4 +54,6 @@
 <a href="mailto:martulas5252@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 <hr class="dotted">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=UlasMuezzinoglu&label=Profile%20Views&color=237b5e&style=flat-square" alt="Ulaş Müezzinoğlu" /> </p>
+
+
+<img src="https://komarev.com/ghpvc/?username=UlasMuezzinoglu&label=Profile%20Views&color=237b5e&style=flat-square" alt="Ulaş Müezzinoğlu" />
