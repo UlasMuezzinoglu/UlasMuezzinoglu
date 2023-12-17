@@ -5,11 +5,13 @@
 <hr class="dotted">
 
 ### 🛠 Tech Stack
-![CSharp](https://img.shields.io/badge/-Csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=E06C00)&nbsp;
+![CSharp](https://img.shields.io/badge/-Csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=F7CB3F)&nbsp;
-![Blazor](https://img.shields.io/badge/Blazor-05122A?style=for-the-badge&logo=blazor)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=spring&logoColor=72AC41)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-05122A.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-05122A.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=268FC9)&nbsp;
 ![JS](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
@@ -25,6 +27,13 @@
 ![MySql](https://img.shields.io/badge/Mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![PostgreSQl](https://img.shields.io/badge/Postgre%20Sql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-05122A?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/Rabbit%20MQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Kafka-05122A?style=for-the-badge&logo=apachekafka)&nbsp;
+![AWS S3](https://img.shields.io/badge/AWS%20S3-05122A?style=for-the-badge&logo=amazons3)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-05122A?style=for-the-badge&logo=amazon)
+![Jenkins](https://img.shields.io/badge/jenkins-05122A.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-05122A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 <hr class="dotted">
