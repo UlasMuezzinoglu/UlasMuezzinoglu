@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ulaş</h1>
 <h3 align="center">Full Stack Developer</h3>
-- 🔭 I’m currently working at Car Studio AI
+- 🔭 I’m currently working at UpVisit
 
 <hr class="dotted">
 
@@ -60,7 +60,7 @@
 
 ### 📩 Contact Me ! 
 
-<a href="mailto:martulas5252@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="mailto:iletisim@ulasmuezzinoglu.net" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 <hr class="dotted">
 
