@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ulaş</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Senior Software Developer</h3>
 - 🔭 I’m currently working at OrderNXT
 
 <hr class="dotted">
@@ -45,7 +45,7 @@
 
 <hr class="dotted">
 
-![](https://github-profile-trophy.vercel.app/?username=UlasMuezzinoglu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-kannan.vercel.app/?username=UlasMuezzinoglu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🤝🏻 Social
 
